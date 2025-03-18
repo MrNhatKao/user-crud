@@ -1,5 +1,7 @@
-package com.example.user_crud;
+package com.example.user_crud.controller;
 
+import com.example.user_crud.model.User;
+import com.example.user_crud.repository.UserRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,4 +1,4 @@
-package com.example.user_crud;
+package com.example.user_crud.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Email;
